@@ -36,11 +36,11 @@ SERVER_ID = "ca49387e9f1542b0b57e8266ac0151c5"
 SECRET_KEY_NAME = "private_20220514163110.key"
 
 # LOCAL ADDRESS
-LOCAL_ADDRESS = "https://attendance-bot-learning.herokuapp.com/"
+LOCAL_ADDRESS = "https://salty-springs-24734.herokuapp.com/"
 
 # DB config
-DB_HOST = "ec2-18-215-96-22.compute-1.amazonaws.com"
-DB_NAME = "dbjderbi4bd2u5"
-DB_USER = "vtjuzogcymxilr"
+DB_HOST = "ec2-44-196-223-128.compute-1.amazonaws.com"
+DB_NAME = "d80oj01uuvn2v1"
+DB_USER = "firjffetrkmgdn"
 DB_PORT = "5432"
-DB_PASSWORD = "8ba20f78a897797f3c905a31d7e7aca069904f5279cb1357d4e587206cc5192a"
+DB_PASSWORD = "a818c816bdc8295d67d61dca70288f8c48cb559926bfd9f6f5be60cb5a98d76b"
